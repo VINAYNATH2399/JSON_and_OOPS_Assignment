@@ -1,0 +1,48 @@
+{
+    "employee": [
+ 
+       {
+          "id": "01",
+          "name": "Amit",
+          "D.O.B": "23/09/1999",
+          "Height":"172cm",
+          "City":"Korba",
+          "State":"Chhattisgarh"
+       },
+       {
+          "id": "02",
+          "name": "Soman",
+          "D.O.B": "21/08/1997",
+          "Height":"162cm",
+          "City":"Kolkata",
+          "State":"West Bengal"
+       },
+       {
+          "id": "03",
+          "name": "Vinay",
+          "D.O.B": "03/03/1998",
+          "Height":"180cm",
+          "City":"Gaya",
+          "State":"Bihar"
+       },
+       {
+          "id": "04",
+          "name": "Raj",
+          "D.O.B": "13/07/2000",
+          "Height":"172cm",
+          "City":"kochhi",
+          "State":"Keral"
+       },
+       {
+          "id": "05",
+          "name": "Kumar",
+          "D.O.B": "20/05/1997",
+          "Height":"168cm",
+          "City":"Bhopal",
+          "State":"Madhya Pradesh"
+       }
+ 
+       
+    ]
+ }
+ 
