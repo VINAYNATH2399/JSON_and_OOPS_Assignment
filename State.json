@@ -1,0 +1,48 @@
+{
+    "State": [
+ 
+       {
+          "No.": "01",
+          "Indian State": "Chhattisgarh",
+          "Capital": "Raipur"
+          
+       },
+       {
+        "No.": "02",
+        "Indian State": "Madhya Pradesh",
+        "Capital": "Bhopal"
+        
+     },
+     {
+        "No.": "03",
+        "Indian State": "West Bengal",
+        "Capital": "Kolkata"
+        
+     },
+     {
+        "No.": "04",
+        "Indian State": "Bihar",
+        "Capital": "Patna"
+        
+     },
+     {
+        "No.": "05",
+        "Indian State": "Telangana",
+        "Capital": "Hydrabad"
+        
+     },
+     {
+        "No.": "06",
+        "Indian State": "Karnatka",
+        "Capital": "Banglore"
+        
+     },
+     {
+        "No.": "07",
+        "Indian State": "Tamil Nadu",
+        "Capital": "Chennai"
+        
+     }
+     
+    ]
+ }
